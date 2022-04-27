@@ -1,0 +1,1 @@
+python chat_system/manage.py runserver
